@@ -1,0 +1,11 @@
+The code you provided is a Python program that takes five integer inputs (A, B, C, D, and E) and then determines which one of these numbers is the largest using nested if-else statements. It compares each number to the others to find the maximum value.
+
+Here's how the code works:
+
+It takes input for five variables: a, b, c, d, and e.
+It then starts comparing these variables in a nested manner to find the largest one.
+It first compares a to b and c, and if a is greater than both, it checks a against d and e.
+If a is the largest, it prints "A is bigger." If not, it continues to compare the other variables.
+If a is not the largest, it goes on to compare b to c, d, and e in a similar manner.
+It continues this process for all possible combinations until it determines which variable is the largest.
+The code is correctly written to find and print the largest number among the five inputs. If you run the program with appropriate input values, it will correctly identify the largest number and print the corresponding message.

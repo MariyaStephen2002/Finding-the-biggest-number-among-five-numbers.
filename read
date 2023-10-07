@@ -2,7 +2,6 @@ The code you provided is a Python program that takes five integer inputs (A, B, 
 
 Here's how the code works:
 
-
 It takes input for five variables: a, b, c, d, and e.
 It then starts comparing these variables in a nested manner to find the largest one.
 It first compares a to b and c, and if a is greater than both, it checks a against d and e.
